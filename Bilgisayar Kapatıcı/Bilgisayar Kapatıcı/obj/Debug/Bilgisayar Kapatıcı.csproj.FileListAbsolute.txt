@@ -1,0 +1,22 @@
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\Bilgisayar Kapatıcı.exe.config
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\Bilgisayar Kapatıcı.exe
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\Bilgisayar Kapatıcı.pdb
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.csproj.AssemblyReference.cache
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.csproj.SuggestedBindingRedirects.cache
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar_Kapatıcı.Form1.resources
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar_Kapatıcı.Properties.Resources.resources
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.csproj.GenerateResource.cache
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.csproj.CoreCompileInputs.cache
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.exe
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.pdb
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\Bilgisayar Kapatıcı.exe.config
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\Bilgisayar Kapatıcı.exe
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\Bilgisayar Kapatıcı.pdb
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.csproj.AssemblyReference.cache
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.csproj.SuggestedBindingRedirects.cache
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar_Kapatıcı.Form1.resources
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar_Kapatıcı.Properties.Resources.resources
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.csproj.GenerateResource.cache
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.csproj.CoreCompileInputs.cache
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.exe
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.pdb
