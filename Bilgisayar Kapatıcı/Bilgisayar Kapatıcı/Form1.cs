@@ -62,29 +62,42 @@ namespace Bilgisayar_Kapatıcı
         }
 
         private void btn_baslat_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Bilgisayar kapatma zamanlayıcısı başladı.","BAŞLATILDI",MessageBoxButtons.OK,MessageBoxIcon.Information);
+        {   // kullanıcının girdiği saati aldık.
+            int closeHour = Convert.ToInt32(cmbBox_hour.Text);
+            int closeMinute = Convert.ToInt32(cmbBox_minute.Text);
+            int closeSecond = Convert.ToInt32(cmbBox_second.Text);
+            TimeSpan closeTime = new TimeSpan(closeHour, closeMinute, closeSecond);
+            // kullanıcının girdiği saati aldık.
 
-            btn_baslat.Visible = false;
-            btn_iptalEt.Visible = true;
-            timer2.Enabled = true;
-            cmbBox_hour.Enabled = false;
-            cmbBox_minute.Enabled = false;
-            cmbBox_second.Enabled=false;
-            btn_baslat.Enabled = false;
+            DateTime dateTime = DateTime.Now;       
 
-        }
-        public void kalanZaman()
-        {
+            if (closeTime < dateTime.TimeOfDay)
+            {
+                MessageBox.Show("Zamanda geriye gittiniz. Lütfen doğru şekilde saat seçiminizi yapınız.");
+                iptal();
+            }
+            else
+            {
+                MessageBox.Show("Bilgisayar kapatma zamanlayıcısı başladı.", "BAŞLATILDI");
+
+                btn_baslat.Visible = false;
+                btn_iptalEt.Visible = true;
+                timer2.Enabled = true;
+                cmbBox_hour.Enabled = false;
+                cmbBox_minute.Enabled = false;
+                cmbBox_second.Enabled = false;
+                btn_baslat.Enabled = false;
+
+            }
             
-        }
 
+        }
+   
         private void timer2_Tick(object sender, EventArgs e)
         {
             int closeHour = Convert.ToInt32(cmbBox_hour.Text);
             int closeMinute = Convert.ToInt32(cmbBox_minute.Text);
             int closeSecond = Convert.ToInt32(cmbBox_second.Text);
-
             DateTime dateTime = DateTime.Now;
 
             TimeSpan closeTime = new TimeSpan(closeHour, closeMinute, closeSecond);
@@ -105,13 +118,15 @@ namespace Bilgisayar_Kapatıcı
                 if (result == DialogResult.No)
                 {
                     MessageBox.Show("Kapatma işlemi durduruldu");
-                    iptal();
                     timer1.Enabled = true;
+                    iptal();
+
                 }
                 else
                 {
                     MessageBox.Show("Bilgisayarınız 4 saniye sonra kapanıyor.");
                     Process shutdownProcess = Process.Start("shutdown", "/s /t 4");
+                    this.Close();
                 }
             }
 
@@ -119,10 +134,9 @@ namespace Bilgisayar_Kapatıcı
 
         public void iptal()
         {
-            MessageBox.Show("Bilgisayar kapatma zamanlayıcısı başladı.", "BAŞLATILDI", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
             timer2.Enabled = false;
             txt_kalanSure.Text = "";
+            txt_Ayarlanan.Text = "";
 
             cmbBox_hour.Enabled = true;
             cmbBox_minute.Enabled = true;
