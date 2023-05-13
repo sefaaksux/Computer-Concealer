@@ -20,6 +20,7 @@ namespace Bilgisayar_Kapatıcı
             InitializeComponent();
         }
         
+
         // ComboBox içeriğini doldur.
         public void cmbToFill()
         {
@@ -47,6 +48,8 @@ namespace Bilgisayar_Kapatıcı
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            
+            // ComboBox içeriğini doldur
             cmbToFill();
             timer1.Enabled = true;
 
@@ -86,13 +89,12 @@ namespace Bilgisayar_Kapatıcı
                 cmbBox_hour.Enabled = false;
                 cmbBox_minute.Enabled = false;
                 cmbBox_second.Enabled = false;
-                btn_baslat.Enabled = false;
-
+                btn_baslat.Enabled = false;           
             }
             
 
         }
-   
+        
         private void timer2_Tick(object sender, EventArgs e)
         {
             int closeHour = Convert.ToInt32(cmbBox_hour.Text);
@@ -106,6 +108,18 @@ namespace Bilgisayar_Kapatıcı
             TimeSpan difference = closeTime - dateTime.TimeOfDay;
 
             txt_kalanSure.Text = difference.ToString(@"hh\:mm\:ss");
+            
+            if(difference.TotalSeconds < 901 && difference.TotalSeconds > 900)
+            {
+                timer2.Enabled = false;
+                MessageBox.Show("Sürenizin bitmesine 30 dakika kaldı.", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                timer2.Enabled = true;
+            }else if(difference.TotalSeconds < 301 && difference.TotalSeconds > 300)
+            {
+                timer2.Enabled = false;
+                MessageBox.Show("Sürenizin bitmesine 5 dakika kaldı.", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Warning); 
+                timer2.Enabled = true;
+            }
             
 
             if (difference.TotalSeconds <= 0)

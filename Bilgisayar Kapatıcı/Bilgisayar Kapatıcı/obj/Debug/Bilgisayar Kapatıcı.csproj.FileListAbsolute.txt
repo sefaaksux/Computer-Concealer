@@ -20,3 +20,13 @@ C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapat
 C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.csproj.CoreCompileInputs.cache
 C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.exe
 C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.pdb
+C:\Users\user\Desktop\Bilgisayar-Kapatici\Computer-Concealer\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\Bilgisayar Kapatıcı.exe.config
+C:\Users\user\Desktop\Bilgisayar-Kapatici\Computer-Concealer\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\Bilgisayar Kapatıcı.exe
+C:\Users\user\Desktop\Bilgisayar-Kapatici\Computer-Concealer\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\Bilgisayar Kapatıcı.pdb
+C:\Users\user\Desktop\Bilgisayar-Kapatici\Computer-Concealer\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Bilgisayar-Kapatici\Computer-Concealer\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar_Kapatıcı.Form1.resources
+C:\Users\user\Desktop\Bilgisayar-Kapatici\Computer-Concealer\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar_Kapatıcı.Properties.Resources.resources
+C:\Users\user\Desktop\Bilgisayar-Kapatici\Computer-Concealer\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Bilgisayar-Kapatici\Computer-Concealer\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bilgisayar-Kapatici\Computer-Concealer\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.exe
+C:\Users\user\Desktop\Bilgisayar-Kapatici\Computer-Concealer\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.pdb
