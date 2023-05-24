@@ -30,3 +30,24 @@ C:\Users\user\Desktop\Bilgisayar-Kapatici\Computer-Concealer\Bilgisayar Kapatıc
 C:\Users\user\Desktop\Bilgisayar-Kapatici\Computer-Concealer\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\Bilgisayar-Kapatici\Computer-Concealer\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.exe
 C:\Users\user\Desktop\Bilgisayar-Kapatici\Computer-Concealer\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.pdb
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.exe.licenses
+C:\Users\sefaa\OneDrive\Masaüstü\yazılım\Projelerim\DESKTOP\Bilgisayar_kapatici\Bilgisayar Kapatıcı\Bilgisayar Kapatıcı\obj\Debug\Bilgisayar Kapatıcı.csproj.CopyComplete
