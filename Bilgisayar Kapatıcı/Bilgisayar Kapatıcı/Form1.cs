@@ -170,5 +170,8 @@ namespace Bilgisayar_Kapatıcı
         {
             iptal();
         }
+
+      
+        
     }
 }
